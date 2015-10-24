@@ -1,0 +1,1 @@
+!function(){"use strict";function e(e){e.Name="Abbey"}angular.module("DemoApp",[]).controller("SampleController",["$scope",e])}();

@@ -1,0 +1,38 @@
+{
+  "name": "gulp_intro",
+  "version": "1.0.0",
+  "description": "Introduction to Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ophedian/gulp_intro.git"
+  },
+  "keywords": [
+    "Intro",
+    "Gulp",
+    "Examples"
+  ],
+  "author": "Abbey Gwayambadde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ophedian/gulp_intro/issues"
+  },
+  "homepage": "https://github.com/ophedian/gulp_intro#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-uglify": "^1.4.2",
+    "uglify": "^0.1.5"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-jasmine-phantom": "^2.0.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "jshint-stylish": "^2.0.1"
+  }
+}

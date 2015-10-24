@@ -1,0 +1,30 @@
+{
+  "name": "Introduction to Gulp",
+  "homepage": "https://github.com/ophedian/gulp_intro",
+  "authors": [
+    "(Abbey Gwayambadde <ophedian@gmail.com>)"
+  ],
+  "description": "Introduction to Gulp",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "Intro",
+    "Gulp",
+    "Examples"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.7"
+  }
+}
